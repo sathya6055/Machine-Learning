@@ -106,3 +106,10 @@ Optimization:
 
 * Hyperparameter tuning using GridSearchCV and RandomizedSearchCV
 * Regularization techniques (L1 and L2)
+
+## **Prerequisites**
+
+* Python programming knowledge
+* Basic understanding of statistics and linear algebra
+* Familiarity with libraries like NumPy, Pandas, Matplotlib, and Scikit-learn
+
