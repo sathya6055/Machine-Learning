@@ -24,4 +24,85 @@ Implemented Machine Learning Algorithms
 
 1.Linear Regression
 
+* Simple linear regression
+* Multivariate regression
+* Assumptions of linear regression
+* Evaluation metrics (e.g., RMSE, R²)
 
+
+2.Polynomial Regression
+
+* Extending linear regression to fit non-linear data
+* Feature transformations
+* Overfitting and regularization
+
+
+3.Support Vector Machine (SVM)
+
+* Hyperplanes and support vectors
+* Kernel functions (linear, polynomial, RBF)
+* Handling non-linearly separable data
+
+
+4.Decision Tree
+
+* Understanding decision tree splits
+* Gini index and entropy
+* Pruning and avoiding overfitting
+
+
+5.Random Forest
+
+* Ensemble learning with decision trees
+* Bagging technique
+* Feature importance and visualization
+
+
+6.K-Nearest Neighbors (KNN)
+
+* Distance metrics (e.g., Euclidean, Manhattan)
+* Choosing the optimal k
+* Applications in classification and regression
+
+
+7.Naive Bayes
+
+* Probabilistic classification
+* Assumptions of Naive Bayes
+* Applications to text classification
+
+
+8.K-Means Clustering
+
+* Centroid initialization and optimization
+* Elbow method for determining the number of clusters
+* Visualizing cluster results
+
+
+9.Recommendation Systems
+
+* Content-based filtering
+* Collaborative filtering
+* Hybrid recommendation systems
+
+
+**Additional Topics**
+
+Model Evaluation:
+
+* Train-test split, cross-validation
+* Accuracy, precision, recall, F1 score
+* Confusion matrix and ROC curve
+
+
+Feature Engineering:
+
+* Scaling and normalization
+* Encoding categorical variables
+* Feature selection techniques
+
+
+Optimization:
+
+* Hyperparameter tuning using GridSearchCV and RandomizedSearchCV
+* Regularization techniques (L1 and L2)
